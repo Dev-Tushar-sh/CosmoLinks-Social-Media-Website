@@ -1,0 +1,14 @@
+Successfully installed distlib-0.3.7 filelock-3.12.2 platformdirs-3.10.0 virtualenv-20.24.3
+
+django 4.2.2
+Python 3.10.0
+psycopg2-2.9.7
+Postgre Sql password- post123
+
+superuser postgres 
+password  = post123
+
+user Tushar
+password = cosmolinks123
+
+
